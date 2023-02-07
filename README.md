@@ -4,10 +4,10 @@ The DCIS project is run by the UK Department for Transport and is a working grou
 
 ## Contents
 
-[UK national numbering system for traffic authorities (RoadRegulatorID)](/traffic_authority_numbering.md)
-[Signalised Intersection Numbering (IntersectionID)](/intersection_numbering.md)
-[Signalised Intersection Definition](/intersection_definition.md)
-[Traffic Signal Controller Configuration](/controller_configuration.md)
+* [UK national numbering system for traffic authorities (RoadRegulatorID)](/traffic_authority_numbering.md)
+* [Signalised Intersection Numbering (IntersectionID)](/intersection_numbering.md)
+* [Signalised Intersection Definition](/intersection_definition.md)
+* [Traffic Signal Controller Configuration](/controller_configuration.md)
 
 ## The problem
 
