@@ -69,7 +69,7 @@ The Project Team will:
 For more information contact: <andy@whitewillow.biz>
 
 <div>
-<span style="display:inline-block;padding-right:20px"><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200px"/><span>
-<span style="display:inline-block;padding-right:20px"><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200px"/><span>
-<span style="display:inline-block;padding-right:20px"><img src="images/topas_logo.png" alt="Topas Logo" width="200px"/><span>
+<span><img src="images/dft_logo.svg" alt="Department for Transport Logo" style="width:200px;padding-right:20px" /><span>
+<span><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" style="width:200px;padding-right:20px" /><span>
+<span><img src="images/topas_logo.png" alt="Topas Logo" style="width:200px;padding-right:20px" /><span>
 </div>
