@@ -20,7 +20,7 @@ The currently proposed numbering system is based on ONS *administrative* Geograp
 
 Scottish data comes from the [Scotland Register of GSS Codes](https://www.gov.scot/publications/small-area-statistics-reference-materials/)
 
-| ONS Administrative Entity Code | Country | Description | RoadRegulatorID range | Weighting |
+| Entity Code | Country | Description | RoadRegulatorID range | Weighting |
 | --- | --- | --- | --- | --- |           
 | E06 | England | Unitary Authorities | 44001 - 44099 | +0 |
 | E07 | England | Non-metropolitan Districts | 44101 - 44349 | +100 |
