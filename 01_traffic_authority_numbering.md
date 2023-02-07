@@ -41,428 +41,434 @@ N09     Northern Ireland     Districts                                    11    
 
 ## UK RoadRegulatorIDs (proposed)
 
-| ONS code | Country | Authority | RoadRegulatorID |
+| RoadRegulatorID | Authority | ONS code | Country |
 |  ---  |  ---  |  ---  |  ---  |
- | E06000001 | ENGLAND | Hartlepool | 44001 |
- | E06000002 | ENGLAND | Middlesbrough | 44002 |
- | E06000003 | ENGLAND | Redcar and Cleveland | 44003 |
- | E06000004 | ENGLAND | Stockton-on-Tees | 44004 |
- | E06000005 | ENGLAND | Darlington | 44005 |
- | E06000006 | ENGLAND | Halton | 44006 |
- | E06000007 | ENGLAND | Warrington | 44007 |
- | E06000008 | ENGLAND | Blackburn with Darwen | 44008 |
- | E06000009 | ENGLAND | Blackpool | 44009 |
- | E06000010 | ENGLAND | Kingston upon Hull, City of | 44010 |
- | E06000011 | ENGLAND | East Riding of Yorkshire | 44011 |
- | E06000012 | ENGLAND | North East Lincolnshire | 44012 |
- | E06000013 | ENGLAND | North Lincolnshire | 44013 |
- | E06000014 | ENGLAND | York | 44014 |
- | E06000015 | ENGLAND | Derby | 44015 |
- | E06000016 | ENGLAND | Leicester | 44016 |
- | E06000017 | ENGLAND | Rutland | 44017 |
- | E06000018 | ENGLAND | Nottingham | 44018 |
- | E06000019 | ENGLAND | Herefordshire, County of | 44019 |
- | E06000020 | ENGLAND | Telford and Wrekin | 44020 |
- | E06000021 | ENGLAND | Stoke-on-Trent | 44021 |
- | E06000022 | ENGLAND | Bath and North East Somerset | 44022 |
- | E06000023 | ENGLAND | Bristol, City of | 44023 |
- | E06000024 | ENGLAND | North Somerset | 44024 |
- | E06000025 | ENGLAND | South Gloucestershire | 44025 |
- | E06000026 | ENGLAND | Plymouth | 44026 |
- | E06000027 | ENGLAND | Torbay | 44027 |
- | E06000030 | ENGLAND | Swindon | 44030 |
- | E06000031 | ENGLAND | Peterborough | 44031 |
- | E06000032 | ENGLAND | Luton | 44032 |
- | E06000033 | ENGLAND | Southend-on-Sea | 44033 |
- | E06000034 | ENGLAND | Thurrock | 44034 |
- | E06000035 | ENGLAND | Medway | 44035 |
- | E06000036 | ENGLAND | Bracknell Forest | 44036 |
- | E06000037 | ENGLAND | West Berkshire | 44037 |
- | E06000038 | ENGLAND | Reading | 44038 |
- | E06000039 | ENGLAND | Slough | 44039 |
- | E06000040 | ENGLAND | Windsor and Maidenhead | 44040 |
- | E06000041 | ENGLAND | Wokingham | 44041 |
- | E06000042 | ENGLAND | Milton Keynes | 44042 |
- | E06000043 | ENGLAND | Brighton and Hove | 44043 |
- | E06000044 | ENGLAND | Portsmouth | 44044 |
- | E06000045 | ENGLAND | Southampton | 44045 |
- | E06000046 | ENGLAND | Isle of Wight | 44046 |
- | E06000047 | ENGLAND | County Durham | 44047 |
- | E06000049 | ENGLAND | Cheshire East | 44049 |
- | E06000050 | ENGLAND | Cheshire West and Chester | 44050 |
- | E06000051 | ENGLAND | Shropshire | 44051 |
- | E06000052 | ENGLAND | Cornwall | 44052 |
- | E06000053 | ENGLAND | Isles of Scilly | 44053 |
- | E06000054 | ENGLAND | Wiltshire | 44054 |
- | E06000055 | ENGLAND | Bedford | 44055 |
- | E06000056 | ENGLAND | Central Bedfordshire | 44056 |
- | E06000057 | ENGLAND | Northumberland | 44057 |
- | E06000058 | ENGLAND | Bournemouth, Christchurch and Poole | 44058 |
- | E06000059 | ENGLAND | Dorset | 44059 |
- | E06000060 | ENGLAND | Buckinghamshire | 44060 |
- | E06000061 | ENGLAND | North Northamptonshire | 44061 |
- | E06000062 | ENGLAND | West Northamptonshire | 44062 |
- | E07000008 | ENGLAND | Cambridge | 44108 |
- | E07000009 | ENGLAND | East Cambridgeshire | 44109 |
- | E07000010 | ENGLAND | Fenland | 44110 |
- | E07000011 | ENGLAND | Huntingdonshire | 44111 |
- | E07000012 | ENGLAND | South Cambridgeshire | 44112 |
- | E07000026 | ENGLAND | Allerdale | 44126 |
- | E07000027 | ENGLAND | Barrow-in-Furness | 44127 |
- | E07000028 | ENGLAND | Carlisle | 44128 |
- | E07000029 | ENGLAND | Copeland | 44129 |
- | E07000030 | ENGLAND | Eden | 44130 |
- | E07000031 | ENGLAND | South Lakeland | 44131 |
- | E07000032 | ENGLAND | Amber Valley | 44132 |
- | E07000033 | ENGLAND | Bolsover | 44133 |
- | E07000034 | ENGLAND | Chesterfield | 44134 |
- | E07000035 | ENGLAND | Derbyshire Dales | 44135 |
- | E07000036 | ENGLAND | Erewash | 44136 |
- | E07000037 | ENGLAND | High Peak | 44137 |
- | E07000038 | ENGLAND | North East Derbyshire | 44138 |
- | E07000039 | ENGLAND | South Derbyshire | 44139 |
- | E07000040 | ENGLAND | East Devon | 44140 |
- | E07000041 | ENGLAND | Exeter | 44141 |
- | E07000042 | ENGLAND | Mid Devon | 44142 |
- | E07000043 | ENGLAND | North Devon | 44143 |
- | E07000044 | ENGLAND | South Hams | 44144 |
- | E07000045 | ENGLAND | Teignbridge | 44145 |
- | E07000046 | ENGLAND | Torridge | 44146 |
- | E07000047 | ENGLAND | West Devon | 44147 |
- | E07000061 | ENGLAND | Eastbourne | 44161 |
- | E07000062 | ENGLAND | Hastings | 44162 |
- | E07000063 | ENGLAND | Lewes | 44163 |
- | E07000064 | ENGLAND | Rother | 44164 |
- | E07000065 | ENGLAND | Wealden | 44165 |
- | E07000066 | ENGLAND | Basildon | 44166 |
- | E07000067 | ENGLAND | Braintree | 44167 |
- | E07000068 | ENGLAND | Brentwood | 44168 |
- | E07000069 | ENGLAND | Castle Point | 44169 |
- | E07000070 | ENGLAND | Chelmsford | 44170 |
- | E07000071 | ENGLAND | Colchester | 44171 |
- | E07000072 | ENGLAND | Epping Forest | 44172 |
- | E07000073 | ENGLAND | Harlow | 44173 |
- | E07000074 | ENGLAND | Maldon | 44174 |
- | E07000075 | ENGLAND | Rochford | 44175 |
- | E07000076 | ENGLAND | Tendring | 44176 |
- | E07000077 | ENGLAND | Uttlesford | 44177 |
- | E07000078 | ENGLAND | Cheltenham | 44178 |
- | E07000079 | ENGLAND | Cotswold | 44179 |
- | E07000080 | ENGLAND | Forest of Dean | 44180 |
- | E07000081 | ENGLAND | Gloucester | 44181 |
- | E07000082 | ENGLAND | Stroud | 44182 |
- | E07000083 | ENGLAND | Tewkesbury | 44183 |
- | E07000084 | ENGLAND | Basingstoke and Deane | 44184 |
- | E07000085 | ENGLAND | East Hampshire | 44185 |
- | E07000086 | ENGLAND | Eastleigh | 44186 |
- | E07000087 | ENGLAND | Fareham | 44187 |
- | E07000088 | ENGLAND | Gosport | 44188 |
- | E07000089 | ENGLAND | Hart | 44189 |
- | E07000090 | ENGLAND | Havant | 44190 |
- | E07000091 | ENGLAND | New Forest | 44191 |
- | E07000092 | ENGLAND | Rushmoor | 44192 |
- | E07000093 | ENGLAND | Test Valley | 44193 |
- | E07000094 | ENGLAND | Winchester | 44194 |
- | E07000095 | ENGLAND | Broxbourne | 44195 |
- | E07000096 | ENGLAND | Dacorum | 44196 |
- | E07000098 | ENGLAND | Hertsmere | 44198 |
- | E07000099 | ENGLAND | North Hertfordshire | 44199 |
- | E07000102 | ENGLAND | Three Rivers | 44202 |
- | E07000103 | ENGLAND | Watford | 44203 |
- | E07000105 | ENGLAND | Ashford | 44205 |
- | E07000106 | ENGLAND | Canterbury | 44206 |
- | E07000107 | ENGLAND | Dartford | 44207 |
- | E07000108 | ENGLAND | Dover | 44208 |
- | E07000109 | ENGLAND | Gravesham | 44209 |
- | E07000110 | ENGLAND | Maidstone | 44210 |
- | E07000111 | ENGLAND | Sevenoaks | 44211 |
- | E07000112 | ENGLAND | Folkestone and Hythe | 44212 |
- | E07000113 | ENGLAND | Swale | 44213 |
- | E07000114 | ENGLAND | Thanet | 44214 |
- | E07000115 | ENGLAND | Tonbridge and Malling | 44215 |
- | E07000116 | ENGLAND | Tunbridge Wells | 44216 |
- | E07000117 | ENGLAND | Burnley | 44217 |
- | E07000118 | ENGLAND | Chorley | 44218 |
- | E07000119 | ENGLAND | Fylde | 44219 |
- | E07000120 | ENGLAND | Hyndburn | 44220 |
- | E07000121 | ENGLAND | Lancaster | 44221 |
- | E07000122 | ENGLAND | Pendle | 44222 |
- | E07000123 | ENGLAND | Preston | 44223 |
- | E07000124 | ENGLAND | Ribble Valley | 44224 |
- | E07000125 | ENGLAND | Rossendale | 44225 |
- | E07000126 | ENGLAND | South Ribble | 44226 |
- | E07000127 | ENGLAND | West Lancashire | 44227 |
- | E07000128 | ENGLAND | Wyre | 44228 |
- | E07000129 | ENGLAND | Blaby | 44229 |
- | E07000130 | ENGLAND | Charnwood | 44230 |
- | E07000131 | ENGLAND | Harborough | 44231 |
- | E07000132 | ENGLAND | Hinckley and Bosworth | 44232 |
- | E07000133 | ENGLAND | Melton | 44233 |
- | E07000134 | ENGLAND | North West Leicestershire | 44234 |
- | E07000135 | ENGLAND | Oadby and Wigston | 44235 |
- | E07000136 | ENGLAND | Boston | 44236 |
- | E07000137 | ENGLAND | East Lindsey | 44237 |
- | E07000138 | ENGLAND | Lincoln | 44238 |
- | E07000139 | ENGLAND | North Kesteven | 44239 |
- | E07000140 | ENGLAND | South Holland | 44240 |
- | E07000141 | ENGLAND | South Kesteven | 44241 |
- | E07000142 | ENGLAND | West Lindsey | 44242 |
- | E07000143 | ENGLAND | Breckland | 44243 |
- | E07000144 | ENGLAND | Broadland | 44244 |
- | E07000145 | ENGLAND | Great Yarmouth | 44245 |
- | E07000146 | ENGLAND | King's Lynn and West Norfolk | 44246 |
- | E07000147 | ENGLAND | North Norfolk | 44247 |
- | E07000148 | ENGLAND | Norwich | 44248 |
- | E07000149 | ENGLAND | South Norfolk | 44249 |
- | E07000163 | ENGLAND | Craven | 44263 |
- | E07000164 | ENGLAND | Hambleton | 44264 |
- | E07000165 | ENGLAND | Harrogate | 44265 |
- | E07000166 | ENGLAND | Richmondshire | 44266 |
- | E07000167 | ENGLAND | Ryedale | 44267 |
- | E07000168 | ENGLAND | Scarborough | 44268 |
- | E07000169 | ENGLAND | Selby | 44269 |
- | E07000170 | ENGLAND | Ashfield | 44270 |
- | E07000171 | ENGLAND | Bassetlaw | 44271 |
- | E07000172 | ENGLAND | Broxtowe | 44272 |
- | E07000173 | ENGLAND | Gedling | 44273 |
- | E07000174 | ENGLAND | Mansfield | 44274 |
- | E07000175 | ENGLAND | Newark and Sherwood | 44275 |
- | E07000176 | ENGLAND | Rushcliffe | 44276 |
- | E07000177 | ENGLAND | Cherwell | 44277 |
- | E07000178 | ENGLAND | Oxford | 44278 |
- | E07000179 | ENGLAND | South Oxfordshire | 44279 |
- | E07000180 | ENGLAND | Vale of White Horse | 44280 |
- | E07000181 | ENGLAND | West Oxfordshire | 44281 |
- | E07000187 | ENGLAND | Mendip | 44287 |
- | E07000188 | ENGLAND | Sedgemoor | 44288 |
- | E07000189 | ENGLAND | South Somerset | 44289 |
- | E07000192 | ENGLAND | Cannock Chase | 44292 |
- | E07000193 | ENGLAND | East Staffordshire | 44293 |
- | E07000194 | ENGLAND | Lichfield | 44294 |
- | E07000195 | ENGLAND | Newcastle-under-Lyme | 44295 |
- | E07000196 | ENGLAND | South Staffordshire | 44296 |
- | E07000197 | ENGLAND | Stafford | 44297 |
- | E07000198 | ENGLAND | Staffordshire Moorlands | 44298 |
- | E07000199 | ENGLAND | Tamworth | 44299 |
- | E07000200 | ENGLAND | Babergh | 44300 |
- | E07000202 | ENGLAND | Ipswich | 44302 |
- | E07000203 | ENGLAND | Mid Suffolk | 44303 |
- | E07000207 | ENGLAND | Elmbridge | 44307 |
- | E07000208 | ENGLAND | Epsom and Ewell | 44308 |
- | E07000209 | ENGLAND | Guildford | 44309 |
- | E07000210 | ENGLAND | Mole Valley | 44310 |
- | E07000211 | ENGLAND | Reigate and Banstead | 44311 |
- | E07000212 | ENGLAND | Runnymede | 44312 |
- | E07000213 | ENGLAND | Spelthorne | 44313 |
- | E07000214 | ENGLAND | Surrey Heath | 44314 |
- | E07000215 | ENGLAND | Tandridge | 44315 |
- | E07000216 | ENGLAND | Waverley | 44316 |
- | E07000217 | ENGLAND | Woking | 44317 |
- | E07000218 | ENGLAND | North Warwickshire | 44318 |
- | E07000219 | ENGLAND | Nuneaton and Bedworth | 44319 |
- | E07000220 | ENGLAND | Rugby | 44320 |
- | E07000221 | ENGLAND | Stratford-on-Avon | 44321 |
- | E07000222 | ENGLAND | Warwick | 44322 |
- | E07000223 | ENGLAND | Adur | 44323 |
- | E07000224 | ENGLAND | Arun | 44324 |
- | E07000225 | ENGLAND | Chichester | 44325 |
- | E07000226 | ENGLAND | Crawley | 44326 |
- | E07000227 | ENGLAND | Horsham | 44327 |
- | E07000228 | ENGLAND | Mid Sussex | 44328 |
- | E07000229 | ENGLAND | Worthing | 44329 |
- | E07000234 | ENGLAND | Bromsgrove | 44334 |
- | E07000235 | ENGLAND | Malvern Hills | 44335 |
- | E07000236 | ENGLAND | Redditch | 44336 |
- | E07000237 | ENGLAND | Worcester | 44337 |
- | E07000238 | ENGLAND | Wychavon | 44338 |
- | E07000239 | ENGLAND | Wyre Forest | 44339 |
- | E07000240 | ENGLAND | St Albans | 44340 |
- | E07000241 | ENGLAND | Welwyn Hatfield | 44341 |
- | E07000242 | ENGLAND | East Hertfordshire | 44342 |
- | E07000243 | ENGLAND | Stevenage | 44343 |
- | E07000244 | ENGLAND | East Suffolk | 44344 |
- | E07000245 | ENGLAND | West Suffolk | 44345 |
- | E07000246 | ENGLAND | Somerset West and Taunton | 44346 |
- | E08000001 | ENGLAND | Bolton | 44351 |
- | E08000002 | ENGLAND | Bury | 44352 |
- | E08000003 | ENGLAND | Manchester | 44353 |
- | E08000004 | ENGLAND | Oldham | 44354 |
- | E08000005 | ENGLAND | Rochdale | 44355 |
- | E08000006 | ENGLAND | Salford | 44356 |
- | E08000007 | ENGLAND | Stockport | 44357 |
- | E08000008 | ENGLAND | Tameside | 44358 |
- | E08000009 | ENGLAND | Trafford | 44359 |
- | E08000010 | ENGLAND | Wigan | 44360 |
- | E08000011 | ENGLAND | Knowsley | 44361 |
- | E08000012 | ENGLAND | Liverpool | 44362 |
- | E08000013 | ENGLAND | St. Helens | 44363 |
- | E08000014 | ENGLAND | Sefton | 44364 |
- | E08000015 | ENGLAND | Wirral | 44365 |
- | E08000016 | ENGLAND | Barnsley | 44366 |
- | E08000017 | ENGLAND | Doncaster | 44367 |
- | E08000018 | ENGLAND | Rotherham | 44368 |
- | E08000019 | ENGLAND | Sheffield | 44369 |
- | E08000021 | ENGLAND | Newcastle upon Tyne | 44371 |
- | E08000022 | ENGLAND | North Tyneside | 44372 |
- | E08000023 | ENGLAND | South Tyneside | 44373 |
- | E08000024 | ENGLAND | Sunderland | 44374 |
- | E08000025 | ENGLAND | Birmingham | 44375 |
- | E08000026 | ENGLAND | Coventry | 44376 |
- | E08000027 | ENGLAND | Dudley | 44377 |
- | E08000028 | ENGLAND | Sandwell | 44378 |
- | E08000029 | ENGLAND | Solihull | 44379 |
- | E08000030 | ENGLAND | Walsall | 44380 |
- | E08000031 | ENGLAND | Wolverhampton | 44381 |
- | E08000032 | ENGLAND | Bradford | 44382 |
- | E08000033 | ENGLAND | Calderdale | 44383 |
- | E08000034 | ENGLAND | Kirklees | 44384 |
- | E08000035 | ENGLAND | Leeds | 44385 |
- | E08000036 | ENGLAND | Wakefield | 44386 |
- | E08000037 | ENGLAND | Gateshead | 44387 |
- | E09000001 | ENGLAND | City of London | 44401 |
- | E09000002 | ENGLAND | Barking and Dagenham | 44402 |
- | E09000003 | ENGLAND | Barnet | 44403 |
- | E09000004 | ENGLAND | Bexley | 44404 |
- | E09000005 | ENGLAND | Brent | 44405 |
- | E09000006 | ENGLAND | Bromley | 44406 |
- | E09000007 | ENGLAND | Camden | 44407 |
- | E09000008 | ENGLAND | Croydon | 44408 |
- | E09000009 | ENGLAND | Ealing | 44409 |
- | E09000010 | ENGLAND | Enfield | 44410 |
- | E09000011 | ENGLAND | Greenwich | 44411 |
- | E09000012 | ENGLAND | Hackney | 44412 |
- | E09000013 | ENGLAND | Hammersmith and Fulham | 44413 |
- | E09000014 | ENGLAND | Haringey | 44414 |
- | E09000015 | ENGLAND | Harrow | 44415 |
- | E09000016 | ENGLAND | Havering | 44416 |
- | E09000017 | ENGLAND | Hillingdon | 44417 |
- | E09000018 | ENGLAND | Hounslow | 44418 |
- | E09000019 | ENGLAND | Islington | 44419 |
- | E09000020 | ENGLAND | Kensington and Chelsea | 44420 |
- | E09000021 | ENGLAND | Kingston upon Thames | 44421 |
- | E09000022 | ENGLAND | Lambeth | 44422 |
- | E09000023 | ENGLAND | Lewisham | 44423 |
- | E09000024 | ENGLAND | Merton | 44424 |
- | E09000025 | ENGLAND | Newham | 44425 |
- | E09000026 | ENGLAND | Redbridge | 44426 |
- | E09000027 | ENGLAND | Richmond upon Thames | 44427 |
- | E09000028 | ENGLAND | Southwark | 44428 |
- | E09000029 | ENGLAND | Sutton | 44429 |
- | E09000030 | ENGLAND | Tower Hamlets | 44430 |
- | E09000031 | ENGLAND | Waltham Forest | 44431 |
- | E09000032 | ENGLAND | Wandsworth | 44432 |
- | E09000033 | ENGLAND | Westminster | 44433 |
- | E10000003 | ENGLAND | Cambridgeshire | 44453 |
- | E10000006 | ENGLAND | Cumbria | 44456 |
- | E10000007 | ENGLAND | Derbyshire | 44457 |
- | E10000008 | ENGLAND | Devon | 44458 |
- | E10000011 | ENGLAND | East Sussex | 44461 |
- | E10000012 | ENGLAND | Essex | 44462 |
- | E10000013 | ENGLAND | Gloucestershire | 44463 |
- | E10000014 | ENGLAND | Hampshire | 44464 |
- | E10000015 | ENGLAND | Hertfordshire | 44465 |
- | E10000016 | ENGLAND | Kent | 44466 |
- | E10000017 | ENGLAND | Lancashire | 44467 |
- | E10000018 | ENGLAND | Leicestershire | 44468 |
- | E10000019 | ENGLAND | Lincolnshire | 44469 |
- | E10000020 | ENGLAND | Norfolk | 44470 |
- | E10000023 | ENGLAND | North Yorkshire | 44473 |
- | E10000024 | ENGLAND | Nottinghamshire | 44474 |
- | E10000025 | ENGLAND | Oxfordshire | 44475 |
- | E10000027 | ENGLAND | Somerset | 44477 |
- | E10000028 | ENGLAND | Staffordshire | 44478 |
- | E10000029 | ENGLAND | Suffolk | 44479 |
- | E10000030 | ENGLAND | Surrey | 44480 |
- | E10000031 | ENGLAND | Warwickshire | 44481 |
- | E10000032 | ENGLAND | West Sussex | 44482 |
- | E10000034 | ENGLAND | Worcestershire | 44484 |
- | E11000001 | ENGLAND | Greater Manchester | 44501 |
- | E11000002 | ENGLAND | Merseyside | 44502 |
- | E11000003 | ENGLAND | South Yorkshire | 44503 |
- | E11000005 | ENGLAND | West Midlands | 44505 |
- | E11000006 | ENGLAND | West Yorkshire | 44506 |
- | E11000007 | ENGLAND | Tyne and Wear | 44507 |
- | E12000001 | ENGLAND | North East | 44521 |
- | E12000002 | ENGLAND | North West | 44522 |
- | E12000003 | ENGLAND | Yorkshire and The Humber | 44523 |
- | E12000004 | ENGLAND | East Midlands | 44524 |
- | E12000005 | ENGLAND | West Midlands | 44525 |
- | E12000006 | ENGLAND | East of England | 44526 |
- | E12000007 | ENGLAND | London | 44527 |
- | E12000008 | ENGLAND | South East | 44528 |
- | E12000009 | ENGLAND | South West | 44529 |
- | E47000001 | ENGLAND | Greater Manchester | 44541 |
- | E47000002 | ENGLAND | Sheffield City Region | 44542 |
- | E47000003 | ENGLAND | West Yorkshire | 44543 |
- | E47000004 | ENGLAND | Liverpool City Region | 44544 |
- | E47000006 | ENGLAND | Tees Valley | 44546 |
- | E47000007 | ENGLAND | West Midlands | 44547 |
- | E47000008 | ENGLAND | Cambridgeshire and Peterborough | 44548 |
- | E47000009 | ENGLAND | West of England | 44549 |
- | E47000010 | ENGLAND | North East | 44550 |
- | E47000011 | ENGLAND | North of Tyne | 44551 |
- | S12000005 | SCOTLAND | Clackmannanshire | 44605 |
- | S12000006 | SCOTLAND | Dumfries and Galloway | 44606 |
- | S12000008 | SCOTLAND | East Ayrshire | 44608 |
- | S12000010 | SCOTLAND | East Lothian | 44610 |
- | S12000011 | SCOTLAND | East Renfrewshire | 44611 |
- | S12000013 | SCOTLAND | Na h-Eileanan Siar | 44613 |
- | S12000014 | SCOTLAND | Falkirk | 44614 |
- | S12000017 | SCOTLAND | Highland | 44617 |
- | S12000018 | SCOTLAND | Inverclyde | 44618 |
- | S12000019 | SCOTLAND | Midlothian | 44619 |
- | S12000020 | SCOTLAND | Moray | 44620 |
- | S12000021 | SCOTLAND | North Ayrshire | 44621 |
- | S12000023 | SCOTLAND | Orkney Islands | 44623 |
- | S12000026 | SCOTLAND | Scottish Borders | 44626 |
- | S12000027 | SCOTLAND | Shetland Islands | 44627 |
- | S12000028 | SCOTLAND | South Ayrshire | 44628 |
- | S12000029 | SCOTLAND | South Lanarkshire | 44629 |
- | S12000030 | SCOTLAND | Stirling | 44630 |
- | S12000033 | SCOTLAND | Aberdeen City | 44633 |
- | S12000034 | SCOTLAND | Aberdeenshire | 44634 |
- | S12000035 | SCOTLAND | Argyll and Bute | 44635 |
- | S12000036 | SCOTLAND | City of Edinburgh | 44636 |
- | S12000038 | SCOTLAND | Renfrewshire | 44638 |
- | S12000039 | SCOTLAND | West Dunbartonshire | 44639 |
- | S12000040 | SCOTLAND | West Lothian | 44640 |
- | S12000041 | SCOTLAND | Angus | 44641 |
- | S12000042 | SCOTLAND | Dundee City | 44642 |
- | S12000045 | SCOTLAND | East Dunbartonshire | 44645 |
- | S12000047 | SCOTLAND | Fife | 44647 |
- | S12000048 | SCOTLAND | Perth and Kinross | 44648 |
- | S12000049 | SCOTLAND | Glasgow City | 44649 |
- | S12000050 | SCOTLAND | North Lanarkshire | 44650 |
- | W06000001 | WALES | Isle of Anglesey | 44701 |
- | W06000002 | WALES | Gwynedd | 44702 |
- | W06000003 | WALES | Conwy | 44703 |
- | W06000004 | WALES | Denbighshire | 44704 |
- | W06000005 | WALES | Flintshire | 44705 |
- | W06000006 | WALES | Wrexham | 44706 |
- | W06000008 | WALES | Ceredigion | 44708 |
- | W06000009 | WALES | Pembrokeshire | 44709 |
- | W06000010 | WALES | Carmarthenshire | 44710 |
- | W06000011 | WALES | Swansea | 44711 |
- | W06000012 | WALES | Neath Port Talbot | 44712 |
- | W06000013 | WALES | Bridgend | 44713 |
- | W06000014 | WALES | Vale of Glamorgan | 44714 |
- | W06000015 | WALES | Cardiff | 44715 |
- | W06000016 | WALES | Rhondda Cynon Taf | 44716 |
- | W06000018 | WALES | Caerphilly | 44718 |
- | W06000019 | WALES | Blaenau Gwent | 44719 |
- | W06000020 | WALES | Torfaen | 44720 |
- | W06000021 | WALES | Monmouthshire | 44721 |
- | W06000022 | WALES | Newport | 44722 |
- | W06000023 | WALES | Powys | 44723 |
- | W06000024 | WALES | Merthyr Tydfil | 44724 |
- | N09000001 | NORTHERN IRELAND | Antrim and Newtownabbey | 44801 |
- | N09000002 | NORTHERN IRELAND | Armagh City, Banbridge and Craigavon | 44802 |
- | N09000003 | NORTHERN IRELAND | Belfast | 44803 |
- | N09000004 | NORTHERN IRELAND | Causeway Coast and Glens | 44804 |
- | N09000005 | NORTHERN IRELAND | Derry City and Strabane | 44805 |
- | N09000006 | NORTHERN IRELAND | Fermanagh and Omagh | 44806 |
- | N09000007 | NORTHERN IRELAND | Lisburn and Castlereagh | 44807 |
- | N09000008 | NORTHERN IRELAND | Mid and East Antrim | 44808 |
- | N09000009 | NORTHERN IRELAND | Mid Ulster | 44809 |
- | N09000010 | NORTHERN IRELAND | Newry, Mourne and Down | 44810 |
- | N09000011 | NORTHERN IRELAND | Ards and North Down | 44811 |
+ | 44001 | Hartlepool | E06000001 | ENGLAND |
+ | 44002 | Middlesbrough | E06000002 | ENGLAND |
+ | 44003 | Redcar and Cleveland | E06000003 | ENGLAND |
+ | 44004 | Stockton-on-Tees | E06000004 | ENGLAND |
+ | 44005 | Darlington | E06000005 | ENGLAND |
+ | 44006 | Halton | E06000006 | ENGLAND |
+ | 44007 | Warrington | E06000007 | ENGLAND |
+ | 44008 | Blackburn with Darwen | E06000008 | ENGLAND |
+ | 44009 | Blackpool | E06000009 | ENGLAND |
+ | 44010 | Kingston upon Hull, City of | E06000010 | ENGLAND |
+ | 44011 | East Riding of Yorkshire | E06000011 | ENGLAND |
+ | 44012 | North East Lincolnshire | E06000012 | ENGLAND |
+ | 44013 | North Lincolnshire | E06000013 | ENGLAND |
+ | 44014 | York | E06000014 | ENGLAND |
+ | 44015 | Derby | E06000015 | ENGLAND |
+ | 44016 | Leicester | E06000016 | ENGLAND |
+ | 44017 | Rutland | E06000017 | ENGLAND |
+ | 44018 | Nottingham | E06000018 | ENGLAND |
+ | 44019 | Herefordshire, County of | E06000019 | ENGLAND |
+ | 44020 | Telford and Wrekin | E06000020 | ENGLAND |
+ | 44021 | Stoke-on-Trent | E06000021 | ENGLAND |
+ | 44022 | Bath and North East Somerset | E06000022 | ENGLAND |
+ | 44023 | Bristol, City of | E06000023 | ENGLAND |
+ | 44024 | North Somerset | E06000024 | ENGLAND |
+ | 44025 | South Gloucestershire | E06000025 | ENGLAND |
+ | 44026 | Plymouth | E06000026 | ENGLAND |
+ | 44027 | Torbay | E06000027 | ENGLAND |
+ | 44030 | Swindon | E06000030 | ENGLAND |
+ | 44031 | Peterborough | E06000031 | ENGLAND |
+ | 44032 | Luton | E06000032 | ENGLAND |
+ | 44033 | Southend-on-Sea | E06000033 | ENGLAND |
+ | 44034 | Thurrock | E06000034 | ENGLAND |
+ | 44035 | Medway | E06000035 | ENGLAND |
+ | 44036 | Bracknell Forest | E06000036 | ENGLAND |
+ | 44037 | West Berkshire | E06000037 | ENGLAND |
+ | 44038 | Reading | E06000038 | ENGLAND |
+ | 44039 | Slough | E06000039 | ENGLAND |
+ | 44040 | Windsor and Maidenhead | E06000040 | ENGLAND |
+ | 44041 | Wokingham | E06000041 | ENGLAND |
+ | 44042 | Milton Keynes | E06000042 | ENGLAND |
+ | 44043 | Brighton and Hove | E06000043 | ENGLAND |
+ | 44044 | Portsmouth | E06000044 | ENGLAND |
+ | 44045 | Southampton | E06000045 | ENGLAND |
+ | 44046 | Isle of Wight | E06000046 | ENGLAND |
+ | 44047 | County Durham | E06000047 | ENGLAND |
+ | 44049 | Cheshire East | E06000049 | ENGLAND |
+ | 44050 | Cheshire West and Chester | E06000050 | ENGLAND |
+ | 44051 | Shropshire | E06000051 | ENGLAND |
+ | 44052 | Cornwall | E06000052 | ENGLAND |
+ | 44053 | Isles of Scilly | E06000053 | ENGLAND |
+ | 44054 | Wiltshire | E06000054 | ENGLAND |
+ | 44055 | Bedford | E06000055 | ENGLAND |
+ | 44056 | Central Bedfordshire | E06000056 | ENGLAND |
+ | 44057 | Northumberland | E06000057 | ENGLAND |
+ | 44058 | Bournemouth, Christchurch and Poole | E06000058 | ENGLAND |
+ | 44059 | Dorset | E06000059 | ENGLAND |
+ | 44060 | Buckinghamshire | E06000060 | ENGLAND |
+ | 44061 | North Northamptonshire | E06000061 | ENGLAND |
+ | 44062 | West Northamptonshire | E06000062 | ENGLAND |
+ | 44108 | Cambridge | E07000008 | ENGLAND |
+ | 44109 | East Cambridgeshire | E07000009 | ENGLAND |
+ | 44110 | Fenland | E07000010 | ENGLAND |
+ | 44111 | Huntingdonshire | E07000011 | ENGLAND |
+ | 44112 | South Cambridgeshire | E07000012 | ENGLAND |
+ | 44126 | Allerdale | E07000026 | ENGLAND |
+ | 44127 | Barrow-in-Furness | E07000027 | ENGLAND |
+ | 44128 | Carlisle | E07000028 | ENGLAND |
+ | 44129 | Copeland | E07000029 | ENGLAND |
+ | 44130 | Eden | E07000030 | ENGLAND |
+ | 44131 | South Lakeland | E07000031 | ENGLAND |
+ | 44132 | Amber Valley | E07000032 | ENGLAND |
+ | 44133 | Bolsover | E07000033 | ENGLAND |
+ | 44134 | Chesterfield | E07000034 | ENGLAND |
+ | 44135 | Derbyshire Dales | E07000035 | ENGLAND |
+ | 44136 | Erewash | E07000036 | ENGLAND |
+ | 44137 | High Peak | E07000037 | ENGLAND |
+ | 44138 | North East Derbyshire | E07000038 | ENGLAND |
+ | 44139 | South Derbyshire | E07000039 | ENGLAND |
+ | 44140 | East Devon | E07000040 | ENGLAND |
+ | 44141 | Exeter | E07000041 | ENGLAND |
+ | 44142 | Mid Devon | E07000042 | ENGLAND |
+ | 44143 | North Devon | E07000043 | ENGLAND |
+ | 44144 | South Hams | E07000044 | ENGLAND |
+ | 44145 | Teignbridge | E07000045 | ENGLAND |
+ | 44146 | Torridge | E07000046 | ENGLAND |
+ | 44147 | West Devon | E07000047 | ENGLAND |
+ | 44161 | Eastbourne | E07000061 | ENGLAND |
+ | 44162 | Hastings | E07000062 | ENGLAND |
+ | 44163 | Lewes | E07000063 | ENGLAND |
+ | 44164 | Rother | E07000064 | ENGLAND |
+ | 44165 | Wealden | E07000065 | ENGLAND |
+ | 44166 | Basildon | E07000066 | ENGLAND |
+ | 44167 | Braintree | E07000067 | ENGLAND |
+ | 44168 | Brentwood | E07000068 | ENGLAND |
+ | 44169 | Castle Point | E07000069 | ENGLAND |
+ | 44170 | Chelmsford | E07000070 | ENGLAND |
+ | 44171 | Colchester | E07000071 | ENGLAND |
+ | 44172 | Epping Forest | E07000072 | ENGLAND |
+ | 44173 | Harlow | E07000073 | ENGLAND |
+ | 44174 | Maldon | E07000074 | ENGLAND |
+ | 44175 | Rochford | E07000075 | ENGLAND |
+ | 44176 | Tendring | E07000076 | ENGLAND |
+ | 44177 | Uttlesford | E07000077 | ENGLAND |
+ | 44178 | Cheltenham | E07000078 | ENGLAND |
+ | 44179 | Cotswold | E07000079 | ENGLAND |
+ | 44180 | Forest of Dean | E07000080 | ENGLAND |
+ | 44181 | Gloucester | E07000081 | ENGLAND |
+ | 44182 | Stroud | E07000082 | ENGLAND |
+ | 44183 | Tewkesbury | E07000083 | ENGLAND |
+ | 44184 | Basingstoke and Deane | E07000084 | ENGLAND |
+ | 44185 | East Hampshire | E07000085 | ENGLAND |
+ | 44186 | Eastleigh | E07000086 | ENGLAND |
+ | 44187 | Fareham | E07000087 | ENGLAND |
+ | 44188 | Gosport | E07000088 | ENGLAND |
+ | 44189 | Hart | E07000089 | ENGLAND |
+ | 44190 | Havant | E07000090 | ENGLAND |
+ | 44191 | New Forest | E07000091 | ENGLAND |
+ | 44192 | Rushmoor | E07000092 | ENGLAND |
+ | 44193 | Test Valley | E07000093 | ENGLAND |
+ | 44194 | Winchester | E07000094 | ENGLAND |
+ | 44195 | Broxbourne | E07000095 | ENGLAND |
+ | 44196 | Dacorum | E07000096 | ENGLAND |
+ | 44198 | Hertsmere | E07000098 | ENGLAND |
+ | 44199 | North Hertfordshire | E07000099 | ENGLAND |
+ | 44202 | Three Rivers | E07000102 | ENGLAND |
+ | 44203 | Watford | E07000103 | ENGLAND |
+ | 44205 | Ashford | E07000105 | ENGLAND |
+ | 44206 | Canterbury | E07000106 | ENGLAND |
+ | 44207 | Dartford | E07000107 | ENGLAND |
+ | 44208 | Dover | E07000108 | ENGLAND |
+ | 44209 | Gravesham | E07000109 | ENGLAND |
+ | 44210 | Maidstone | E07000110 | ENGLAND |
+ | 44211 | Sevenoaks | E07000111 | ENGLAND |
+ | 44212 | Folkestone and Hythe | E07000112 | ENGLAND |
+ | 44213 | Swale | E07000113 | ENGLAND |
+ | 44214 | Thanet | E07000114 | ENGLAND |
+ | 44215 | Tonbridge and Malling | E07000115 | ENGLAND |
+ | 44216 | Tunbridge Wells | E07000116 | ENGLAND |
+ | 44217 | Burnley | E07000117 | ENGLAND |
+ | 44218 | Chorley | E07000118 | ENGLAND |
+ | 44219 | Fylde | E07000119 | ENGLAND |
+ | 44220 | Hyndburn | E07000120 | ENGLAND |
+ | 44221 | Lancaster | E07000121 | ENGLAND |
+ | 44222 | Pendle | E07000122 | ENGLAND |
+ | 44223 | Preston | E07000123 | ENGLAND |
+ | 44224 | Ribble Valley | E07000124 | ENGLAND |
+ | 44225 | Rossendale | E07000125 | ENGLAND |
+ | 44226 | South Ribble | E07000126 | ENGLAND |
+ | 44227 | West Lancashire | E07000127 | ENGLAND |
+ | 44228 | Wyre | E07000128 | ENGLAND |
+ | 44229 | Blaby | E07000129 | ENGLAND |
+ | 44230 | Charnwood | E07000130 | ENGLAND |
+ | 44231 | Harborough | E07000131 | ENGLAND |
+ | 44232 | Hinckley and Bosworth | E07000132 | ENGLAND |
+ | 44233 | Melton | E07000133 | ENGLAND |
+ | 44234 | North West Leicestershire | E07000134 | ENGLAND |
+ | 44235 | Oadby and Wigston | E07000135 | ENGLAND |
+ | 44236 | Boston | E07000136 | ENGLAND |
+ | 44237 | East Lindsey | E07000137 | ENGLAND |
+ | 44238 | Lincoln | E07000138 | ENGLAND |
+ | 44239 | North Kesteven | E07000139 | ENGLAND |
+ | 44240 | South Holland | E07000140 | ENGLAND |
+ | 44241 | South Kesteven | E07000141 | ENGLAND |
+ | 44242 | West Lindsey | E07000142 | ENGLAND |
+ | 44243 | Breckland | E07000143 | ENGLAND |
+ | 44244 | Broadland | E07000144 | ENGLAND |
+ | 44245 | Great Yarmouth | E07000145 | ENGLAND |
+ | 44246 | King's Lynn and West Norfolk | E07000146 | ENGLAND |
+ | 44247 | North Norfolk | E07000147 | ENGLAND |
+ | 44248 | Norwich | E07000148 | ENGLAND |
+ | 44249 | South Norfolk | E07000149 | ENGLAND |
+ | 44263 | Craven | E07000163 | ENGLAND |
+ | 44264 | Hambleton | E07000164 | ENGLAND |
+ | 44265 | Harrogate | E07000165 | ENGLAND |
+ | 44266 | Richmondshire | E07000166 | ENGLAND |
+ | 44267 | Ryedale | E07000167 | ENGLAND |
+ | 44268 | Scarborough | E07000168 | ENGLAND |
+ | 44269 | Selby | E07000169 | ENGLAND |
+ | 44270 | Ashfield | E07000170 | ENGLAND |
+ | 44271 | Bassetlaw | E07000171 | ENGLAND |
+ | 44272 | Broxtowe | E07000172 | ENGLAND |
+ | 44273 | Gedling | E07000173 | ENGLAND |
+ | 44274 | Mansfield | E07000174 | ENGLAND |
+ | 44275 | Newark and Sherwood | E07000175 | ENGLAND |
+ | 44276 | Rushcliffe | E07000176 | ENGLAND |
+ | 44277 | Cherwell | E07000177 | ENGLAND |
+ | 44278 | Oxford | E07000178 | ENGLAND |
+ | 44279 | South Oxfordshire | E07000179 | ENGLAND |
+ | 44280 | Vale of White Horse | E07000180 | ENGLAND |
+ | 44281 | West Oxfordshire | E07000181 | ENGLAND |
+ | 44287 | Mendip | E07000187 | ENGLAND |
+ | 44288 | Sedgemoor | E07000188 | ENGLAND |
+ | 44289 | South Somerset | E07000189 | ENGLAND |
+ | 44292 | Cannock Chase | E07000192 | ENGLAND |
+ | 44293 | East Staffordshire | E07000193 | ENGLAND |
+ | 44294 | Lichfield | E07000194 | ENGLAND |
+ | 44295 | Newcastle-under-Lyme | E07000195 | ENGLAND |
+ | 44296 | South Staffordshire | E07000196 | ENGLAND |
+ | 44297 | Stafford | E07000197 | ENGLAND |
+ | 44298 | Staffordshire Moorlands | E07000198 | ENGLAND |
+ | 44299 | Tamworth | E07000199 | ENGLAND |
+ | 44300 | Babergh | E07000200 | ENGLAND |
+ | 44302 | Ipswich | E07000202 | ENGLAND |
+ | 44303 | Mid Suffolk | E07000203 | ENGLAND |
+ | 44307 | Elmbridge | E07000207 | ENGLAND |
+ | 44308 | Epsom and Ewell | E07000208 | ENGLAND |
+ | 44309 | Guildford | E07000209 | ENGLAND |
+ | 44310 | Mole Valley | E07000210 | ENGLAND |
+ | 44311 | Reigate and Banstead | E07000211 | ENGLAND |
+ | 44312 | Runnymede | E07000212 | ENGLAND |
+ | 44313 | Spelthorne | E07000213 | ENGLAND |
+ | 44314 | Surrey Heath | E07000214 | ENGLAND |
+ | 44315 | Tandridge | E07000215 | ENGLAND |
+ | 44316 | Waverley | E07000216 | ENGLAND |
+ | 44317 | Woking | E07000217 | ENGLAND |
+ | 44318 | North Warwickshire | E07000218 | ENGLAND |
+ | 44319 | Nuneaton and Bedworth | E07000219 | ENGLAND |
+ | 44320 | Rugby | E07000220 | ENGLAND |
+ | 44321 | Stratford-on-Avon | E07000221 | ENGLAND |
+ | 44322 | Warwick | E07000222 | ENGLAND |
+ | 44323 | Adur | E07000223 | ENGLAND |
+ | 44324 | Arun | E07000224 | ENGLAND |
+ | 44325 | Chichester | E07000225 | ENGLAND |
+ | 44326 | Crawley | E07000226 | ENGLAND |
+ | 44327 | Horsham | E07000227 | ENGLAND |
+ | 44328 | Mid Sussex | E07000228 | ENGLAND |
+ | 44329 | Worthing | E07000229 | ENGLAND |
+ | 44334 | Bromsgrove | E07000234 | ENGLAND |
+ | 44335 | Malvern Hills | E07000235 | ENGLAND |
+ | 44336 | Redditch | E07000236 | ENGLAND |
+ | 44337 | Worcester | E07000237 | ENGLAND |
+ | 44338 | Wychavon | E07000238 | ENGLAND |
+ | 44339 | Wyre Forest | E07000239 | ENGLAND |
+ | 44340 | St Albans | E07000240 | ENGLAND |
+ | 44341 | Welwyn Hatfield | E07000241 | ENGLAND |
+ | 44342 | East Hertfordshire | E07000242 | ENGLAND |
+ | 44343 | Stevenage | E07000243 | ENGLAND |
+ | 44344 | East Suffolk | E07000244 | ENGLAND |
+ | 44345 | West Suffolk | E07000245 | ENGLAND |
+ | 44346 | Somerset West and Taunton | E07000246 | ENGLAND |
+ | 44351 | Bolton | E08000001 | ENGLAND |
+ | 44352 | Bury | E08000002 | ENGLAND |
+ | 44353 | Manchester | E08000003 | ENGLAND |
+ | 44354 | Oldham | E08000004 | ENGLAND |
+ | 44355 | Rochdale | E08000005 | ENGLAND |
+ | 44356 | Salford | E08000006 | ENGLAND |
+ | 44357 | Stockport | E08000007 | ENGLAND |
+ | 44358 | Tameside | E08000008 | ENGLAND |
+ | 44359 | Trafford | E08000009 | ENGLAND |
+ | 44360 | Wigan | E08000010 | ENGLAND |
+ | 44361 | Knowsley | E08000011 | ENGLAND |
+ | 44362 | Liverpool | E08000012 | ENGLAND |
+ | 44363 | St. Helens | E08000013 | ENGLAND |
+ | 44364 | Sefton | E08000014 | ENGLAND |
+ | 44365 | Wirral | E08000015 | ENGLAND |
+ | 44366 | Barnsley | E08000016 | ENGLAND |
+ | 44367 | Doncaster | E08000017 | ENGLAND |
+ | 44368 | Rotherham | E08000018 | ENGLAND |
+ | 44369 | Sheffield | E08000019 | ENGLAND |
+ | 44371 | Newcastle upon Tyne | E08000021 | ENGLAND |
+ | 44372 | North Tyneside | E08000022 | ENGLAND |
+ | 44373 | South Tyneside | E08000023 | ENGLAND |
+ | 44374 | Sunderland | E08000024 | ENGLAND |
+ | 44375 | Birmingham | E08000025 | ENGLAND |
+ | 44376 | Coventry | E08000026 | ENGLAND |
+ | 44377 | Dudley | E08000027 | ENGLAND |
+ | 44378 | Sandwell | E08000028 | ENGLAND |
+ | 44379 | Solihull | E08000029 | ENGLAND |
+ | 44380 | Walsall | E08000030 | ENGLAND |
+ | 44381 | Wolverhampton | E08000031 | ENGLAND |
+ | 44382 | Bradford | E08000032 | ENGLAND |
+ | 44383 | Calderdale | E08000033 | ENGLAND |
+ | 44384 | Kirklees | E08000034 | ENGLAND |
+ | 44385 | Leeds | E08000035 | ENGLAND |
+ | 44386 | Wakefield | E08000036 | ENGLAND |
+ | 44387 | Gateshead | E08000037 | ENGLAND |
+ | 44401 | City of London | E09000001 | ENGLAND |
+ | 44402 | Barking and Dagenham | E09000002 | ENGLAND |
+ | 44403 | Barnet | E09000003 | ENGLAND |
+ | 44404 | Bexley | E09000004 | ENGLAND |
+ | 44405 | Brent | E09000005 | ENGLAND |
+ | 44406 | Bromley | E09000006 | ENGLAND |
+ | 44407 | Camden | E09000007 | ENGLAND |
+ | 44408 | Croydon | E09000008 | ENGLAND |
+ | 44409 | Ealing | E09000009 | ENGLAND |
+ | 44410 | Enfield | E09000010 | ENGLAND |
+ | 44411 | Greenwich | E09000011 | ENGLAND |
+ | 44412 | Hackney | E09000012 | ENGLAND |
+ | 44413 | Hammersmith and Fulham | E09000013 | ENGLAND |
+ | 44414 | Haringey | E09000014 | ENGLAND |
+ | 44415 | Harrow | E09000015 | ENGLAND |
+ | 44416 | Havering | E09000016 | ENGLAND |
+ | 44417 | Hillingdon | E09000017 | ENGLAND |
+ | 44418 | Hounslow | E09000018 | ENGLAND |
+ | 44419 | Islington | E09000019 | ENGLAND |
+ | 44420 | Kensington and Chelsea | E09000020 | ENGLAND |
+ | 44421 | Kingston upon Thames | E09000021 | ENGLAND |
+ | 44422 | Lambeth | E09000022 | ENGLAND |
+ | 44423 | Lewisham | E09000023 | ENGLAND |
+ | 44424 | Merton | E09000024 | ENGLAND |
+ | 44425 | Newham | E09000025 | ENGLAND |
+ | 44426 | Redbridge | E09000026 | ENGLAND |
+ | 44427 | Richmond upon Thames | E09000027 | ENGLAND |
+ | 44428 | Southwark | E09000028 | ENGLAND |
+ | 44429 | Sutton | E09000029 | ENGLAND |
+ | 44430 | Tower Hamlets | E09000030 | ENGLAND |
+ | 44431 | Waltham Forest | E09000031 | ENGLAND |
+ | 44432 | Wandsworth | E09000032 | ENGLAND |
+ | 44433 | Westminster | E09000033 | ENGLAND |
+ | 44453 | Cambridgeshire | E10000003 | ENGLAND |
+ | 44456 | Cumbria | E10000006 | ENGLAND |
+ | 44457 | Derbyshire | E10000007 | ENGLAND |
+ | 44458 | Devon | E10000008 | ENGLAND |
+ | 44461 | East Sussex | E10000011 | ENGLAND |
+ | 44462 | Essex | E10000012 | ENGLAND |
+ | 44463 | Gloucestershire | E10000013 | ENGLAND |
+ | 44464 | Hampshire | E10000014 | ENGLAND |
+ | 44465 | Hertfordshire | E10000015 | ENGLAND |
+ | 44466 | Kent | E10000016 | ENGLAND |
+ | 44467 | Lancashire | E10000017 | ENGLAND |
+ | 44468 | Leicestershire | E10000018 | ENGLAND |
+ | 44469 | Lincolnshire | E10000019 | ENGLAND |
+ | 44470 | Norfolk | E10000020 | ENGLAND |
+ | 44473 | North Yorkshire | E10000023 | ENGLAND |
+ | 44474 | Nottinghamshire | E10000024 | ENGLAND |
+ | 44475 | Oxfordshire | E10000025 | ENGLAND |
+ | 44477 | Somerset | E10000027 | ENGLAND |
+ | 44478 | Staffordshire | E10000028 | ENGLAND |
+ | 44479 | Suffolk | E10000029 | ENGLAND |
+ | 44480 | Surrey | E10000030 | ENGLAND |
+ | 44481 | Warwickshire | E10000031 | ENGLAND |
+ | 44482 | West Sussex | E10000032 | ENGLAND |
+ | 44484 | Worcestershire | E10000034 | ENGLAND |
+ | 44501 | Greater Manchester | E11000001 | ENGLAND |
+ | 44502 | Merseyside | E11000002 | ENGLAND |
+ | 44503 | South Yorkshire | E11000003 | ENGLAND |
+ | 44505 | West Midlands | E11000005 | ENGLAND |
+ | 44506 | West Yorkshire | E11000006 | ENGLAND |
+ | 44507 | Tyne and Wear | E11000007 | ENGLAND |
+ | 44521 | North East | E12000001 | ENGLAND |
+ | 44522 | North West | E12000002 | ENGLAND |
+ | 44523 | Yorkshire and The Humber | E12000003 | ENGLAND |
+ | 44524 | East Midlands | E12000004 | ENGLAND |
+ | 44525 | West Midlands | E12000005 | ENGLAND |
+ | 44526 | East of England | E12000006 | ENGLAND |
+ | 44527 | London | E12000007 | ENGLAND |
+ | 44528 | South East | E12000008 | ENGLAND |
+ | 44529 | South West | E12000009 | ENGLAND |
+ | 44541 | Greater Manchester | E47000001 | ENGLAND |
+ | 44542 | Sheffield City Region | E47000002 | ENGLAND |
+ | 44543 | West Yorkshire | E47000003 | ENGLAND |
+ | 44544 | Liverpool City Region | E47000004 | ENGLAND |
+ | 44546 | Tees Valley | E47000006 | ENGLAND |
+ | 44547 | West Midlands | E47000007 | ENGLAND |
+ | 44548 | Cambridgeshire and Peterborough | E47000008 | ENGLAND |
+ | 44549 | West of England | E47000009 | ENGLAND |
+ | 44550 | North East | E47000010 | ENGLAND |
+ | 44551 | North of Tyne | E47000011 | ENGLAND |
+ | 44605 | Clackmannanshire | S12000005 | SCOTLAND |
+ | 44606 | Dumfries and Galloway | S12000006 | SCOTLAND |
+ | 44608 | East Ayrshire | S12000008 | SCOTLAND |
+ | 44610 | East Lothian | S12000010 | SCOTLAND |
+ | 44611 | East Renfrewshire | S12000011 | SCOTLAND |
+ | 44613 | Na h-Eileanan Siar | S12000013 | SCOTLAND |
+ | 44614 | Falkirk | S12000014 | SCOTLAND |
+ | 44617 | Highland | S12000017 | SCOTLAND |
+ | 44618 | Inverclyde | S12000018 | SCOTLAND |
+ | 44619 | Midlothian | S12000019 | SCOTLAND |
+ | 44620 | Moray | S12000020 | SCOTLAND |
+ | 44621 | North Ayrshire | S12000021 | SCOTLAND |
+ | 44623 | Orkney Islands | S12000023 | SCOTLAND |
+ | 44626 | Scottish Borders | S12000026 | SCOTLAND |
+ | 44627 | Shetland Islands | S12000027 | SCOTLAND |
+ | 44628 | South Ayrshire | S12000028 | SCOTLAND |
+ | 44629 | South Lanarkshire | S12000029 | SCOTLAND |
+ | 44630 | Stirling | S12000030 | SCOTLAND |
+ | 44633 | Aberdeen City | S12000033 | SCOTLAND |
+ | 44634 | Aberdeenshire | S12000034 | SCOTLAND |
+ | 44635 | Argyll and Bute | S12000035 | SCOTLAND |
+ | 44636 | City of Edinburgh | S12000036 | SCOTLAND |
+ | 44638 | Renfrewshire | S12000038 | SCOTLAND |
+ | 44639 | West Dunbartonshire | S12000039 | SCOTLAND |
+ | 44640 | West Lothian | S12000040 | SCOTLAND |
+ | 44641 | Angus | S12000041 | SCOTLAND |
+ | 44642 | Dundee City | S12000042 | SCOTLAND |
+ | 44645 | East Dunbartonshire | S12000045 | SCOTLAND |
+ | 44647 | Fife | S12000047 | SCOTLAND |
+ | 44648 | Perth and Kinross | S12000048 | SCOTLAND |
+ | 44649 | Glasgow City | S12000049 | SCOTLAND |
+ | 44650 | North Lanarkshire | S12000050 | SCOTLAND |
+ | 44701 | Isle of Anglesey | W06000001 | WALES |
+ | 44702 | Gwynedd | W06000002 | WALES |
+ | 44703 | Conwy | W06000003 | WALES |
+ | 44704 | Denbighshire | W06000004 | WALES |
+ | 44705 | Flintshire | W06000005 | WALES |
+ | 44706 | Wrexham | W06000006 | WALES |
+ | 44708 | Ceredigion | W06000008 | WALES |
+ | 44709 | Pembrokeshire | W06000009 | WALES |
+ | 44710 | Carmarthenshire | W06000010 | WALES |
+ | 44711 | Swansea | W06000011 | WALES |
+ | 44712 | Neath Port Talbot | W06000012 | WALES |
+ | 44713 | Bridgend | W06000013 | WALES |
+ | 44714 | Vale of Glamorgan | W06000014 | WALES |
+ | 44715 | Cardiff | W06000015 | WALES |
+ | 44716 | Rhondda Cynon Taf | W06000016 | WALES |
+ | 44718 | Caerphilly | W06000018 | WALES |
+ | 44719 | Blaenau Gwent | W06000019 | WALES |
+ | 44720 | Torfaen | W06000020 | WALES |
+ | 44721 | Monmouthshire | W06000021 | WALES |
+ | 44722 | Newport | W06000022 | WALES |
+ | 44723 | Powys | W06000023 | WALES |
+ | 44724 | Merthyr Tydfil | W06000024 | WALES |
+ | 44801 | Antrim and Newtownabbey | N09000001 | NORTHERN IRELAND |
+ | 44802 | Armagh City, Banbridge and Craigavon | N09000002 | NORTHERN IRELAND |
+ | 44803 | Belfast | N09000003 | NORTHERN IRELAND |
+ | 44804 | Causeway Coast and Glens | N09000004 | NORTHERN IRELAND |
+ | 44805 | Derry City and Strabane | N09000005 | NORTHERN IRELAND |
+ | 44806 | Fermanagh and Omagh | N09000006 | NORTHERN IRELAND |
+ | 44807 | Lisburn and Castlereagh | N09000007 | NORTHERN IRELAND |
+ | 44808 | Mid and East Antrim | N09000008 | NORTHERN IRELAND |
+ | 44809 | Mid Ulster | N09000009 | NORTHERN IRELAND |
+ | 44810 | Newry, Mourne and Down | N09000010 | NORTHERN IRELAND |
+ | 44811 | Ards and North Down | N09000011 | NORTHERN IRELAND |
+ | 44901 | National Highways |  | ENGLAND |
+ | 44902 | Traffic Scotland |  | SCOTLAND |
+ | 44903 | DfI Roads |  | NORTHERN IRELAND |
+ | 44904 | North & Mid Wales Trunk Road Agent (NMWTRA) |  | WALES |
+ | 44905 | South Wales Trunk Road Agent (SWTRA) |  | WALES |
+
