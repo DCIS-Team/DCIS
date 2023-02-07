@@ -78,5 +78,5 @@ For more information contact: <andy@whitewillow.biz>
 <span><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200px" /><span>
 <span><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200px" /><span>
 <span><img src="images/topas_logo.png" alt="Topas Logo" width="200px" /><span>
-<span><img src="images/croads_logo.png" alt="C-Roads Logo" width="200px" /><span>
+<span><img src="images/croads_logo.svg" alt="C-Roads Logo" width="200px" /><span>
 </div>
