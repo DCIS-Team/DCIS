@@ -1,6 +1,6 @@
 # Digital (Traffic Signal) Controller Interface Specification
 
-The DCIS project is a working group under the [Transport Technology Forum](https://ttf.uk.net/) sponsored by the UK Department for Transport and is tasked with establishing standards for the digitisation of traffic signal controller configurations ensuring alignment with these relevant standards:
+The DCIS project is a working group under the [Transport Technology Forum](https://ttf.uk.net/) sponsored by the UK Department for Transport and is tasked with establishing standards for the digitisation of signalised intersections and traffic signal controller configuration ensuring alignment with these relevant standards:
 
 * [TOPAS2500 2500B Specification for Traffic Signal Controllers](https://topasgroup.org.uk/specification/topas-2500b/)
 * [CEN ISO/TS 19091 Intelligent transport systems — Cooperative ITS — Using V2I and I2V communications for applications related to signalized intersections](https://www.iso.org/standard/73781.html)
