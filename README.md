@@ -74,17 +74,17 @@ The Project Team will:
 
 For more information contact: <andy@whitewillow.biz>
 
-## Diagrams
+# Diagrams
 
-### Scope of the DCIS project
+## Scope of the DCIS project
 
 ![DCIS Scope](/images/dcis_overview.png)
 
-### Proposed Digital TOPAS2500 Document Structure
+## Proposed Digital TOPAS2500 Document Structure
 
 ![Digital TOPAS2500 Document structure](/images/topas2500_document_structure.png)
 
-### Schematic of an intersection
+## Schematic of an intersection
 
 ![Intersection Definition Diagram](/images/intersection_definition.png)
 
