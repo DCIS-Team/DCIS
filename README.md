@@ -4,16 +4,16 @@ The DCIS project is a working group under the Transport Technology Forum sponsor
 
 * [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/)
 * [CEN ISO/TS 19091 Intelligent transport systems — Cooperative ITS — Using V2I and I2V communications for applications related to signalized intersections](https://www.iso.org/standard/73781.html)
-* [C-Roads C-ITS European Handbook for MAPEM and SPATEM Creation)](https://www.c-roads.eu/platform.html)
+* [C-Roads C-ITS European Handbook for MAPEM and SPATEM Creation](https://www.c-roads.eu/platform.html)
 
 ## Contents
 
 The DCIS project is split into 4 discrete areas as below:
 
-* [UK national numbering system for traffic authorities (RoadRegulatorID)](/traffic_authority_numbering.md)
-* [Intersection Numbering (IntersectionID)](/intersection_numbering.md)
-* [Signalised Intersection Definition - aligned with CEN ISO/TS 19091 (MAPEM/SPATEM)](/intersection_definition.md)
-* [Traffic Signal Controller Configuration - digitisation of TOPAS2500](/controller_configuration.md)
+1. [UK national numbering system for traffic authorities (RoadRegulatorID)](/01_traffic_authority_numbering.md)
+2. [Intersection Numbering (IntersectionID)](/02_intersection_numbering.md)
+3. [Signalised Intersection Definition - aligned with CEN ISO/TS 19091 (MAPEM/SPATEM)](/03_intersection_definition.md)
+4. [Traffic Signal Controller Configuration - digitisation of TOPAS2500](/04_controller_configuration.md)
 
 ## The problem
 
