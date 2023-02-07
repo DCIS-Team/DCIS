@@ -2,7 +2,7 @@
 
 The DCIS project is a working group under the Transport Technology Forum sponsored by the UK Department for Transport and is tasked with establishing standards for the digitisation of traffic signal controller configurations ensuring alignment with these relevant standards:
 
-* [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/)
+* [TOPAS2500 2500B Specification for Traffic Signal Controllers](https://topasgroup.org.uk/specification/topas-2500b/)
 * [CEN ISO/TS 19091 Intelligent transport systems — Cooperative ITS — Using V2I and I2V communications for applications related to signalized intersections](https://www.iso.org/standard/73781.html)
 * [C-Roads C-ITS European Handbook for MAPEM and SPATEM Creation](https://www.c-roads.eu/platform.html)
 
