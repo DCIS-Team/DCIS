@@ -5,9 +5,9 @@ The DCIS project is run by the UK Department for Transport and is a working grou
 ## Contents
 
 * [UK national numbering system for traffic authorities (RoadRegulatorID)](/traffic_authority_numbering.md)
-* [Signalised Intersection Numbering (IntersectionID)](/intersection_numbering.md)
-* [Signalised Intersection Definition](/intersection_definition.md)
-* [Traffic Signal Controller Configuration](/controller_configuration.md)
+* [Intersection Numbering (IntersectionID)](/intersection_numbering.md)
+* [Signalised Intersection Definition - aligned with CEN ISO/TS 19091 (MAPEM)](/intersection_definition.md)
+* [Traffic Signal Controller Configuration - digitisation of TOPAS2500](/controller_configuration.md)
 
 ## The problem
 
@@ -23,7 +23,7 @@ Having this data, for the roughly 35,000 traffic signal sites in the UK accessib
 
 Whilst it is not proposed to fundamentally alter or replace the [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/), there is a strong case to move controller definition that this standard mandates from to a 'digital first' model. This would make accurate, standardised data easily available for wider use to meet the opportunities outlined above and would support the provision of traffic signal logic and geometry data through emerging data channels such as the DfT National Access Point (a.k.a. Find Transport Data). Currently each traffic signal supplier has a unique and proprietary approach to handling paper or spreadsheet form TOPAS2500 data and so the value this could have to a variety of stakeholders is diminished.
 
-The DfT, through the [Transport Technology Forum (TTF)](https://https://ttf.uk.net/) has commissioned White Willow Consulting Ltd to lead an industry group to develop DCIS, the **Digital Controller Interface Specification** to address this challenge. DCIS will move the paper form to a digital model that describes the junction logic and geography defined by [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/) and will allow integration with the modelling systems that digital twins use and the international C-ITS standards (specifically [CEN/ITS TS19091](https://www.iso.org/standard/73781.html)) that connected and automated vehicles use.
+The DfT, through the [Transport Technology Forum (TTF)](https://https://ttf.uk.net/) has commissioned White Willow Consulting Ltd to lead an industry group to develop DCIS, the **Digital Controller Interface Specification** to address this challenge. DCIS will move the paper form to a digital model that describes the junction logic and geography defined by [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/) and will allow integration with the modelling systems that digital twins use and the international C-ITS standards (specifically [CEN ISO/TS 19091](https://www.iso.org/standard/73781.html)) that connected and automated vehicles use.
 
 DCIS has identified eleven high level end-user cases based on and expanding the work of the Europe-wide [C-Roads Platform](https://www.c-roads.eu/platform.html) and started to consider the ways in which a digital model of traffic signal operation will make their realisation and adoption easier. Examples of sectors who would benefit from this in developing new services include emerging traffic simulation companies, satnav providers, road network modellers and tier one and two automotive suppliers.
 DCIS development is still in its infancy and has not yet gone deeper than scratching the surface of the key use cases. It has not yet developed alignment with other developments such as Digital Twins, the wider road networks that feed into signalised junctions or the underground assets that lie beneath them. Hence DCIS is currently a 'traffic signals world' view and needs to develop its use cases for traffic authorities, road users and integration with other digital twins in more depth.
@@ -69,7 +69,7 @@ The Project Team will:
 For more information contact: <andy@whitewillow.biz>
 
 <div>
-<span style="display:inline-block;margin-right:20px"><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200px"/><span>
-<span style="display:inline-block;margin-right:20px"><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200px"/><span>
-<span style="display:inline-block;margin-right:20px"><img src="images/topas_logo.png" alt="Topas Logo" width="200px"/><span>
+<span style="display:inline-block;padding-right:20px"><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200px"/><span>
+<span style="display:inline-block;padding-right:20px"><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200px"/><span>
+<span style="display:inline-block;padding-right:20px"><img src="images/topas_logo.png" alt="Topas Logo" width="200px"/><span>
 </div>
