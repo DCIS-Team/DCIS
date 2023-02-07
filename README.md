@@ -1,12 +1,18 @@
 # Digital (Traffic Signal) Controller Interface Specification
 
-The DCIS project is run by the UK Department for Transport and is a working group tasked with establishing standards for the digitisation of traffic signal controller configuration.
+The DCIS project is a working group under the Transport Technology Forum sponsored by the UK Department for Transport and is tasked with establishing standards for the digitisation of traffic signal controller configurations ensuring alignment with these relevant standards:
+
+* [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/)
+* [CEN ISO/TS 19091 Intelligent transport systems — Cooperative ITS — Using V2I and I2V communications for applications related to signalized intersections](https://www.iso.org/standard/73781.html)
+* [C-Roads C-ITS European Handbook for MAPEM and SPATEM Creation)](https://www.c-roads.eu/platform.html)
 
 ## Contents
 
+The DCIS project is split into 4 discrete areas as below:
+
 * [UK national numbering system for traffic authorities (RoadRegulatorID)](/traffic_authority_numbering.md)
 * [Intersection Numbering (IntersectionID)](/intersection_numbering.md)
-* [Signalised Intersection Definition - aligned with CEN ISO/TS 19091 (MAPEM)](/intersection_definition.md)
+* [Signalised Intersection Definition - aligned with CEN ISO/TS 19091 (MAPEM/SPATEM)](/intersection_definition.md)
 * [Traffic Signal Controller Configuration - digitisation of TOPAS2500](/controller_configuration.md)
 
 ## The problem
@@ -69,7 +75,7 @@ The Project Team will:
 For more information contact: <andy@whitewillow.biz>
 
 <div>
-<span><img src="images/dft_logo.svg" alt="Department for Transport Logo" style="width:200px;padding-right:20px" /><span>
-<span><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" style="width:200px;padding-right:20px" /><span>
-<span><img src="images/topas_logo.png" alt="Topas Logo" style="width:200px;padding-right:20px" /><span>
+<span><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200px" /><span>
+<span><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200px" /><span>
+<span><img src="images/topas_logo.png" alt="Topas Logo" width="200px" /><span>
 </div>
