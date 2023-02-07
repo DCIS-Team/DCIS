@@ -1,4 +1,4 @@
-# About the Digital Controller Interface Specification (DCIS)
+# Digital (Traffic Signal) Controller Interface Specification (DCIS)
 
 ## The problem
 
@@ -59,4 +59,5 @@ The Project Team will:
 
 For more information contact: <andy@whitewillow.biz>
 
-![Transport Technology Forum logo](images/ttf_logo.png)
+<img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200"/>
+<img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200"/>
