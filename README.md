@@ -78,6 +78,15 @@ For more information contact: <andy@whitewillow.biz>
 
 ## Scope of the DCIS project
 
+The DCIS project proposes four document types that together comprise an `Intersection Documentation Set`:
+
+* Intersection Summary Document - a JSON array of all intersections managed by a single authority)
+* Intersection Diagram - (PDF / image) showing basic intersection geometry with numbered elements i.e. `approaches` and `generic lanes` (which includes pedestrian crossings, cycle ways etc.)
+* Intersection Definition Document - a JSON document defining an intersection using MAPEM terminology but without complex geometry
+* Controller Configuration Document - a JSON document defining a signal controller configuration
+
+See [EXAMPLE_44013_10410_IntersectionDocumentationSet](/EXAMPLE_44013_10410_IntersectionDocumentationSet/)
+
 ![DCIS Scope](/images/dcis_overview.png)
 
 ## Proposed Digital TOPAS2500 Document Structure

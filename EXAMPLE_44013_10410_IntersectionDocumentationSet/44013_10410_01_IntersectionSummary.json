@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "version": 20210422000000,
+  "roadAuthorityId": 44013,
+  "features": [
+    {
+      "type": "Feature",
+      "intersectionId": 10410,
+      "properties": {
+        "location": "A18 Queensway / Dudley Road, Scunthorpe",
+        "altIntersectionId": "NLC-1-041",
+        "siteType": "Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.623806682290,
+          53.56651026452
+        ]
+      }
+    },
+    //... additional sites added as required
+  ]
+}
