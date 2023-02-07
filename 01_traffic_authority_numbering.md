@@ -8,13 +8,13 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 * European signal companies have already adopted a convention of prefixing the `RoadRegulatorID` with the international dialling code for that country i.e. '44' for UK.  This convention restricts the number of unique `RoadRegulatorIDs` available in the UK to 1000 (i.e. 44000 to 44999 inclusive).
 
-* For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the Office for National Statistics' in their Register of Geographic Codes (RGC) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this doesn't work UK wide because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
+* For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the Office for National Statistics' in their Register of Geographic Codes (RGC) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this doesn't work nationally because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
 
 * It is also acknowledged that not all road operators are local authorities.  Any national numbering scheme needs to allow for private traffic operators.
 
 ## Current proposal
 
-The currently proposed numbering system is based on ONS administrative Geographic Codes but allows additional ranges for private companies and future use.
+The currently proposed numbering system is based on ONS administrative Geographic Codes but applies a 'weighting' to the last 3 digits of the authority geographic code based on the ONS entity code to avoid duplicates.  It also allows additional ranges for road operators who don't have ONS geographic codes e.g. private operators.
 
 ```
 ONS     Country              Description                                    RoadRegulatorID    Weighting
