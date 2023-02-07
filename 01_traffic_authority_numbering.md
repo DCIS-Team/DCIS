@@ -43,6 +43,8 @@ Scottish data comes from the [Scotland Register of GSS Codes](https://www.gov.sc
 
 ## UK RoadRegulatorIDs (proposed)
 
+**NOTE: Several private road operators are not yet listed and are to be added.  Not all the local authorities listed here are road authorities.**
+
 | RoadRegulatorID | Authority | ONS code | Country |
 |  ---  |  ---  |  ---  |  ---  |
 | 44001 | Hartlepool | E06000001 | ENGLAND |
