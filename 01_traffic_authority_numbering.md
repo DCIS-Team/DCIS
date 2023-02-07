@@ -25,7 +25,7 @@ The currently proposed numbering system is based on ONS administrative Geographi
 | E08 | England | Metropolitan Districts | 44351 - 44399 | +350 |
 | E09 | England | London Boroughs | 44401 - 44449 | +400 |
 | E10 | England | Counties | 44451 - 44469 | +450 |
-| E11 | England | Metropolitan Counties | 44501 - 4451 | +500 |
+| E11 | England | Metropolitan Counties | 44501 - 44519 | +500 |
 | E12 | England | Regions | 44521 - 44539 | +520 |
 | E47 | England | Combined Authorities | 44541 - 44559 | +540 |
 | - | England | RESERVED FOR FUTURE USE | 44560 - 44599 | - |
