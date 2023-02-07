@@ -12,7 +12,7 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 * It is acknowledged that not all road operators are local authorities.  Any national numbering scheme needs to allow for private traffic operators.
 
-* For the avoidance of doubt, for our purposes, 'national' means England, Wales, Scotland and Northern Ireland.
+* For the avoidance of doubt, 'national' means England, Wales, Scotland and Northern Ireland.
 
 ## Current proposal
 
