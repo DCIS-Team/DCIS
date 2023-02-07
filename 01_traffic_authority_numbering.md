@@ -6,17 +6,19 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 * The `RoadRegulatorID` is specified as a 16-bit integer in the range 1 to 65535 which means that existing alphanumeric identifiers for road authorities (e.g. [Street Works Act Codes](https://www.gov.uk/government/publications/street-works-register/street-works-act-codes)) are not suitable.
 
-* European signal companies have already adopted a convention of prefixing the `RoadRegulatorID` with the international dialling code for that country i.e. '44' for UK.  This convention restricts the number of unique `RoadRegulatorIDs` available in the UK to 1000 (i.e. 44000 to 44999 inclusive).
+* European signal companies have already adopted a convention of prefixing the `RoadRegulatorID` with the international dialling code for that country i.e. '44' for UK.  This convention restricts the number of unique `RoadRegulatorIDs` available in the UK to 1000 (i.e. 44000 to 44999 inclusive) which is constraining but not unworkable.
 
-* For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the [Office for National Statistics in their 'Register of Geographic Codes' (RGC)](https://geoportal.statistics.gov.uk/) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this doesn't work nationally because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
+* For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the [Office for National Statistics in their 'Register of Geographic Codes' (RGC)](https://geoportal.statistics.gov.uk/) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this won't work nationally because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
 
 * It is acknowledged that not all road operators are local authorities.  Any national numbering scheme needs to allow for private traffic operators.
 
-* 'National' means England, Wales, Scotland and Northern Ireland
+* For the avoidance of doubt, for our purposes, 'national' means England, Wales, Scotland and Northern Ireland.
 
 ## Current proposal
 
-The currently proposed numbering system is based on ONS *administrative* Geographic Codes but applies a 'weighting' to the last 3 digits of the authority geographic code based on the ONS entity code to avoid duplicates.  It also allows additional ranges for road operators who don't have ONS geographic codes e.g. National Highways and private operators.
+The currently proposed numbering system is based on ONS *administrative* Geographic Codes but applies a 'weighting' to the last 3 digits of the code based on the ONS entity code to avoid duplicates.  It also allows additional ranges for road operators who don't have ONS geographic codes e.g. National Highways and private operators.
+
+Scottish data comes from thje [Scotland Register of GSS Codes](https://www.gov.scot/publications/small-area-statistics-reference-materials/)
 
 | ONS Entity Code | Country | Description | RoadRegulatorID range | Weighting |
 | --- | --- | --- | --- | --- |           
