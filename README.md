@@ -27,7 +27,7 @@ Having this data, for the roughly 35,000 traffic signal sites in the UK accessib
 
 ## The solution
 
-Whilst it is not proposed to fundamentally alter or replace the [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/), there is a strong case to move controller definition that this standard mandates from to a 'digital first' model. This would make accurate, standardised data easily available for wider use to meet the opportunities outlined above and would support the provision of traffic signal logic and geometry data through emerging data channels such as the DfT National Access Point (a.k.a. Find Transport Data). Currently each traffic signal supplier has a unique and proprietary approach to handling paper or spreadsheet form TOPAS2500 data and so the value this could have to a variety of stakeholders is diminished.
+Whilst it is not proposed to fundamentally alter or replace the [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/), there is a strong case to move controller definition that this standard mandates to a 'digital first' model. This would make accurate, standardised data easily available for wider use to meet the opportunities outlined above and would support the provision of traffic signal logic and geometry data through emerging data channels such as the DfT National Access Point (a.k.a. Find Transport Data). Currently each traffic signal supplier has a unique and proprietary approach to handling paper or spreadsheet form TOPAS2500 data and so the value this could have to a variety of stakeholders is diminished.
 
 The DfT, through the [Transport Technology Forum (TTF)](https://https://ttf.uk.net/) has commissioned White Willow Consulting Ltd to lead an industry group to develop DCIS, the **Digital Controller Interface Specification** to address this challenge. DCIS will move the paper form to a digital model that describes the junction logic and geography defined by [TOPAS2500 specification](https://topasgroup.org.uk/specification/topas-2500b/) and will allow integration with the modelling systems that digital twins use and the international C-ITS standards (specifically [CEN ISO/TS 19091](https://www.iso.org/standard/73781.html)) that connected and automated vehicles use.
 
@@ -73,6 +73,20 @@ The Project Team will:
 * Work with signal companies to explore how transition might occur
 
 For more information contact: <andy@whitewillow.biz>
+
+## Diagrams
+
+### Scope of the DCIS project
+
+![DCIS Scope](/images/dcis_overview.png)
+
+### Proposed Digital TOPAS2500 Document Structure
+
+![Digital TOPAS2500 Document structure](/images/topas2500_document_structure.png)
+
+### Schematic of an intersection
+
+![Intersection Definition Diagram](/images/intersection_definition.png)
 
 <div>
 <span><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="150px" /><span>
