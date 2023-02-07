@@ -59,5 +59,7 @@ The Project Team will:
 
 For more information contact: <andy@whitewillow.biz>
 
-<img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200"/>
-<img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200"/>
+<div>
+<span><img src="images/dft_logo.svg" alt="Department for Transport Logo" width="200"/><span>
+<span><img src="images/ttf_logo.png" alt="Transport Technology Forum Logo" width="200"/><span>
+</div>
