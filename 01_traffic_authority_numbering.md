@@ -16,7 +16,7 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 ## Current proposal
 
-The currently proposed numbering system is based on ONS administrative Geographic Codes but applies a 'weighting' to the last 3 digits of the authority geographic code based on the ONS entity code to avoid duplicates.  It also allows additional ranges for road operators who don't have ONS geographic codes e.g. National Highways and private operators.
+The currently proposed numbering system is based on ONS *administrative* Geographic Codes but applies a 'weighting' to the last 3 digits of the authority geographic code based on the ONS entity code to avoid duplicates.  It also allows additional ranges for road operators who don't have ONS geographic codes e.g. National Highways and private operators.
 
 | ONS Entity Code | Country | Description | RoadRegulatorID range | Weighting |
 | --- | --- | --- | --- | --- |           
