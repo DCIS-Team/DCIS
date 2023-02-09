@@ -1,6 +1,6 @@
 # UK National Numbering System for Road Authorities (RoadRegulatorID)
 
-C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a nationally unique `RoadRegulatorID` to be assigned to traffic authorities.
+C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a nationally unique `RoadRegulatorID` to be assigned to road authorities.
 
 ## Considerations
 
