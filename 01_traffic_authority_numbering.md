@@ -4,9 +4,11 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 ## Considerations
 
-* The `RoadRegulatorID` is specified as a 16-bit integer in the range 1 to 65535 which means that existing alphanumeric identifiers for road authorities (e.g. [Street Works Act Codes](https://www.gov.uk/government/publications/street-works-register/street-works-act-codes)) are not suitable.
+* The MAPEM `RoadRegulatorID` is specified as a 16-bit integer in the range 1 to 65535 which means that existing alphanumeric identifiers for road authorities (e.g. [Street Works Act Codes](https://www.gov.uk/government/publications/street-works-register/street-works-act-codes)) are not suitable.
 
 * European signal companies have already adopted a convention of prefixing the `RoadRegulatorID` with the international dialling code for that country i.e. '44' for UK.  This convention restricts the number of unique `RoadRegulatorIDs` available in the UK to 1000 (i.e. 44000 to 44999 inclusive) which is constraining but not unworkable.
+
+* The C-Roads project which is developing the MAPEM (MAP (topology) Extended Message) has proposed the addition of a `countryCode` which is a bit string as defined by EN ISO 14816 denoting the alpha 2 country code according to ISO 3166-1.  For UK the ISO 3166-1 country code is 'GB'. According to ISO 14816, G = 01011 and B = 10011 hence the `countryCode` is **0101110011**.  Use of `countryCode` would remove the need to use '44' as the prefix to the `RoadRegulatorID`.
 
 * For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the [Office for National Statistics in their 'Register of Geographic Codes' (RGC)](https://geoportal.statistics.gov.uk/) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this won't work nationally because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
 
