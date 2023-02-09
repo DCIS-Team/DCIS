@@ -10,7 +10,7 @@ C-ITS messaging standards (CEN/ISO TS19091 and C-Roads MAPEM/SPATEM) require a n
 
 * For some early UK C-ITS implementations an additional convention was to use the last digits from local authority's Gegraphic Code as maintained by the [Office for National Statistics in their 'Register of Geographic Codes' (RGC)](https://geoportal.statistics.gov.uk/) e.g. as a Unitary Authority, York has a geographic code of E060000**14** so the chosen RoadRegulatorID was **44014** but this won't work nationally because local authorities have different administrative entity codes (e.g. for England: E06, E07, E08, E09, E10, E11, E12 etc.) hence duplicates will occur e.g. York is E06000014 and Congleton is E07000014 so both would result in 44014 as the RoadRegulatorID.
 
-* It is acknowledged that not all road operators are local authorities.  Any national numbering scheme needs to allow for private traffic operators.
+* It is acknowledged that not all road operators are local authorities.  Any national numbering scheme needs to allow for private traffic authorities.
 
 * For the avoidance of doubt, 'national' means England, Wales, Scotland and Northern Ireland.
 
